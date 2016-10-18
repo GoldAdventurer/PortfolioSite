@@ -8,7 +8,7 @@ The files are an html page (```index.html```), a css file (```main.css``` in the
 
 **Authors**
 
-Christine D. selected the images, the logo, and wrote the code for the html page and the css file.
+C. D. selected the images, the logo, and wrote the code for the html page and the css file.
 
 **License**
 
